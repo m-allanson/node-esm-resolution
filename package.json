@@ -1,0 +1,21 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "patch": "patch-package"
+  },
+  "engines": {
+    "node": "15.10.0",
+    "npm": "7.5.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@humanwhocodes/env": "^2.1.2",
+    "patch-package": "^6.2.2"
+  }
+}
