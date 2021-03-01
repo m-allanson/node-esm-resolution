@@ -30,7 +30,7 @@ const { Env } = pkg;
 
 ## Why?
 
-The imported module has common js and esm versions available. In the `package.json` it has the following configuration:
+The imported module has CommonJS and ESM versions available. In the `package.json` it has the following configuration:
 
 ```
   "main": "dist/env.cjs.js",
